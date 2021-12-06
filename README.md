@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👯 I'm Harbor（二瓜）.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aopi1125&show_icons=true&theme=dark&hide=contribs&count_private=true" alt="HarlonWang's github stats" /></a>
+
+
